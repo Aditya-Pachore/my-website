@@ -1,4 +1,4 @@
 # my-website
 This is awesom website
 
-Update in example branch
+Update made on master on Github before rebase
